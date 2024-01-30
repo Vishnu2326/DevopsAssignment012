@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-30T15:24:25 IST" name="Suite" finished-at="2024-01-30T15:24:40 IST" duration-ms="15304">
+  <suite started-at="2024-01-30T16:45:01 IST" name="Suite" finished-at="2024-01-30T16:45:20 IST" duration-ms="18751">
     <groups>
     </groups>
-    <test started-at="2024-01-30T15:24:25 IST" name="Test1" finished-at="2024-01-30T15:24:36 IST" duration-ms="11342">
+    <test started-at="2024-01-30T16:45:01 IST" name="Test1" finished-at="2024-01-30T16:45:13 IST" duration-ms="12274">
       <class name="devopsAssn.CrossBrowserTesting">
-        <test-method signature="browserTest(java.lang.String)[pri:0, instance:devopsAssn.CrossBrowserTesting@28f2a10f]" started-at="2024-01-30T15:24:25 IST" name="browserTest" finished-at="2024-01-30T15:24:36 IST" duration-ms="11291" status="PASS">
+        <test-method signature="browserTest(java.lang.String)[pri:0, instance:devopsAssn.CrossBrowserTesting@be64738]" started-at="2024-01-30T16:45:01 IST" name="browserTest" finished-at="2024-01-30T16:45:13 IST" duration-ms="12207" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -20,9 +20,9 @@
         </test-method> <!-- browserTest -->
       </class> <!-- devopsAssn.CrossBrowserTesting -->
     </test> <!-- Test1 -->
-    <test started-at="2024-01-30T15:24:25 IST" name="Test3" finished-at="2024-01-30T15:24:37 IST" duration-ms="12194">
+    <test started-at="2024-01-30T16:45:01 IST" name="Test3" finished-at="2024-01-30T16:45:15 IST" duration-ms="13720">
       <class name="devopsAssn.CrossBrowserTesting">
-        <test-method signature="browserTest(java.lang.String)[pri:0, instance:devopsAssn.CrossBrowserTesting@27462a88]" started-at="2024-01-30T15:24:25 IST" name="browserTest" finished-at="2024-01-30T15:24:37 IST" duration-ms="12149" status="PASS">
+        <test-method signature="browserTest(java.lang.String)[pri:0, instance:devopsAssn.CrossBrowserTesting@2c767a52]" started-at="2024-01-30T16:45:01 IST" name="browserTest" finished-at="2024-01-30T16:45:15 IST" duration-ms="13661" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -35,9 +35,9 @@
         </test-method> <!-- browserTest -->
       </class> <!-- devopsAssn.CrossBrowserTesting -->
     </test> <!-- Test3 -->
-    <test started-at="2024-01-30T15:24:25 IST" name="Test2" finished-at="2024-01-30T15:24:40 IST" duration-ms="15304">
+    <test started-at="2024-01-30T16:45:01 IST" name="Test2" finished-at="2024-01-30T16:45:20 IST" duration-ms="18751">
       <class name="devopsAssn.CrossBrowserTesting">
-        <test-method signature="browserTest(java.lang.String)[pri:0, instance:devopsAssn.CrossBrowserTesting@6253c26]" started-at="2024-01-30T15:24:25 IST" name="browserTest" finished-at="2024-01-30T15:24:40 IST" duration-ms="15260" status="PASS">
+        <test-method signature="browserTest(java.lang.String)[pri:0, instance:devopsAssn.CrossBrowserTesting@35ef1869]" started-at="2024-01-30T16:45:01 IST" name="browserTest" finished-at="2024-01-30T16:45:20 IST" duration-ms="18693" status="PASS">
           <params>
             <param index="0">
               <value>
